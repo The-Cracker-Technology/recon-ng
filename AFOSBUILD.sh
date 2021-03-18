@@ -13,7 +13,9 @@ python3 -m venv reconngenv
 
 source reconngenv/bin/activate
 
+pip3 install wheel
 pip3 install -r REQUIREMENTS
+
 
 deactivate
 
